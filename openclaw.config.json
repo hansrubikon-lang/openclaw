@@ -2,6 +2,9 @@
   "gateway": {
     "controlUi": {
       "dangerouslyAllowHostHeaderOriginFallback": true
+    },
+    "auth": {
+      "disable": true
     }
   }
 }
